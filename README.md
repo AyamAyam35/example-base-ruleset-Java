@@ -1,3 +1,3 @@
-# Unciv Base Ruleset template
+# Unciv Base Ruleset template Java
 
-Superceded by the new [https://github.com/yairm210/Unciv-minimal-base-ruleset](minimal base ruleset) repo
+Fix ok 🔊🔊🔊🔊🔊🔊🔊🔊🔊🔊🔊🔊
